@@ -1,7 +1,7 @@
 # django-quiz-management
 ##  A Django app that makes the use of quiz management and easy to handle!
 
-![PyPI v0.3.2](https://img.shields.io/badge/PyPI-v0.3.2-blue.svg)
+![PyPI v0.1](https://img.shields.io/badge/PyPI-v0.1-blue.svg)
 ![MIT License](https://img.shields.io/badge/License-MIT-lightgray.svg)
 ![Docs](https://img.shields.io/badge/docs-meh-orange.svg)
 
@@ -46,6 +46,4 @@ And that's it! django-quiz-management should appear in your admin as ```Quiz Man
 
 ### Download
 
-***[https://github.com/krishnaansh/django-quiz-management/archive/refs/tags/v0.3.2.zip](https://github.com/krishnaansh/django-quiz-management/archive/refs/tags/v0.3.2.zip)***
-
-
+***[https://github.com/krishnaansh/django-quiz-management/releases/download/v1.1/v1.1.zip](https://github.com/krishnaansh/django-quiz-management/releases/download/v1.1/v1.1.zip)***
